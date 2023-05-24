@@ -1,0 +1,18 @@
+#wpIcon{
+    position: fixed;
+    width: 48px;
+    height: 48px;
+    right: 2%;
+    top: 92%;
+    z-index: 4;
+}
+#logout{
+    position: fixed;
+    width: 96px;
+    height: 47px;
+    right: 12%;
+    top: 92%;
+    z-index: 4;
+    font-size: 28px;
+    background-color: red;
+}
