@@ -1,0 +1,16 @@
+.box{
+    width: 100%;
+    border: 3px solid;
+    padding: 1%;
+    margin-top: 2%;
+    border-color: #6b4646;
+    border-radius: 10px;
+    font-family: system-ui;
+    font-size: 20px;
+    text-align: justify;
+    background-color: #cecbbe;
+}
+.font_cls{
+    color: #ff0505;
+    font-weight: bolder;
+}
