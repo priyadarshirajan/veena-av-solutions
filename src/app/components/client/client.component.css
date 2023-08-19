@@ -3,14 +3,13 @@
     border: 3px solid;
     padding: 1%;
     margin-top: 2%;
-    border-color: #6b4646;
+    border-color: #deb6cf7d;
     border-radius: 10px;
     font-family: system-ui;
     font-size: 15px;
     text-align: justify;
-    background-color: #e2dbe8b5;
 }
 .font_cls{
-    color: #ff0505;
+    color: #10dcb4;
     font-weight: bolder;
 }

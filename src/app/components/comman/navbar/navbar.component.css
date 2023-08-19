@@ -1,6 +1,6 @@
 .topnav {
   overflow: hidden;
-  background-color: #664e91d1;
+  background-color: #12554dcf;
   position: relative;
 }
 
@@ -17,7 +17,7 @@
 }
 
 .topnav a.icon {
-  background: #c64fbbeb;
+  background: #50cae0b8;
   display: block;
   position: absolute;
   right: 0;
@@ -30,6 +30,6 @@
 }
 
 .active {
-  background-color: #435951c7;
+  background-color: #16161699;
   color: white;
 }
